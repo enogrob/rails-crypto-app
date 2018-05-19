@@ -41,6 +41,7 @@ group :development, :test do
   gem 'launchy', '~> 2.4', '>= 2.4.3'
   gem 'shoulda-matchers', '~> 3.1', '>= 3.1.2'
   gem 'selenium-webdriver'
+  gem 'pry-rails'
 end
 
 group :development do
