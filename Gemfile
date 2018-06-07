@@ -55,3 +55,5 @@ group :development do
   gem 'spring-commands-rspec'
 end
 
+gem 'devise', '~> 4.4', '>= 4.4.3'
+
